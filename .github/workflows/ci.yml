@@ -11,20 +11,31 @@ jobs:
   lint:
     name: lint
     runs-on: ubuntu-latest
-    if: github.repository == 'meorphis/test-repo-2'
+    if: github.repository == 'meorphis-test-11/meorphis-test-11-python'
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+      - name: Install Rye
+        run: |
+          curl -sSf https://rye-up.com/get | bash
+          echo "$HOME/.rye/shims" >> $GITHUB_PATH
+        env:
+          RYE_VERSION: 0.15.2
+          RYE_INSTALL_OPTION: "--yes"
 
       - name: Install dependencies
         run: |
-          yarn install
+          rye sync --all-features
 
-      - name: Check types
+      - name: Run ruff
         run: |
-          yarn build
+          rye run check:ruff
+
+      - name: Run type checking
+        run: |
+          rye run typecheck
+
+      - name: Ensure importable
+        run: |
+          rye run python -c 'import meorphis_test_11'
