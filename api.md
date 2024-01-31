@@ -1,54 +1,112 @@
-IyBBY2NvdW50cwoKVHlwZXM6CgotIDxjb2RlPjxhIGhyZWY9Ii4vc3JjL3Jl
-c291cmNlcy9hY2NvdW50cy9hY2NvdW50cy50cyI+QWNjb3VudGNvbmZpZ3Vy
-YXRpb248L2E+PC9jb2RlPgoKTWV0aG9kczoKCi0gPGNvZGUgdGl0bGU9Imdl
-dCAvYWNjb3VudHMve2FjY291bnRfdG9rZW59Ij5jbGllbnQuYWNjb3VudHMu
-PGEgaHJlZj0iLi9zcmMvcmVzb3VyY2VzL2FjY291bnRzL2FjY291bnRzLnRz
-Ij5yZXRyaWV2ZTwvYT4oYWNjb3VudFRva2VuKSAtPiBBY2NvdW50Y29uZmln
-dXJhdGlvbjwvY29kZT4KLSA8Y29kZSB0aXRsZT0icGF0Y2ggL2FjY291bnRz
-L3thY2NvdW50X3Rva2VufSI+Y2xpZW50LmFjY291bnRzLjxhIGhyZWY9Ii4v
-c3JjL3Jlc291cmNlcy9hY2NvdW50cy9hY2NvdW50cy50cyI+dXBkYXRlPC9h
-PihhY2NvdW50VG9rZW4sIHsgLi4ucGFyYW1zIH0pIC0+IEFjY291bnRjb25m
-aWd1cmF0aW9uPC9jb2RlPgoKIyMgQ3JlZGl0Q29uZmlndXJhdGlvbgoKVHlw
-ZXM6CgotIDxjb2RlPjxhIGhyZWY9Ii4vc3JjL3Jlc291cmNlcy9hY2NvdW50
-cy9jcmVkaXQtY29uZmlndXJhdGlvbi50cyI+QnVzaW5lc3NhY2NvdW50PC9h
-PjwvY29kZT4KCk1ldGhvZHM6CgotIDxjb2RlIHRpdGxlPSJnZXQgL2FjY291
-bnRzL3thY2NvdW50X3Rva2VufS9jcmVkaXRfY29uZmlndXJhdGlvbiI+Y2xp
-ZW50LmFjY291bnRzLmNyZWRpdENvbmZpZ3VyYXRpb24uPGEgaHJlZj0iLi9z
-cmMvcmVzb3VyY2VzL2FjY291bnRzL2NyZWRpdC1jb25maWd1cmF0aW9uLnRz
-Ij5yZXRyaWV2ZTwvYT4oYWNjb3VudFRva2VuKSAtPiBCdXNpbmVzc2FjY291
-bnQ8L2NvZGU+Ci0gPGNvZGUgdGl0bGU9InBhdGNoIC9hY2NvdW50cy97YWNj
-b3VudF90b2tlbn0vY3JlZGl0X2NvbmZpZ3VyYXRpb24iPmNsaWVudC5hY2Nv
-dW50cy5jcmVkaXRDb25maWd1cmF0aW9uLjxhIGhyZWY9Ii4vc3JjL3Jlc291
-cmNlcy9hY2NvdW50cy9jcmVkaXQtY29uZmlndXJhdGlvbi50cyI+dXBkYXRl
-PC9hPihhY2NvdW50VG9rZW4sIHsgLi4ucGFyYW1zIH0pIC0+IEJ1c2luZXNz
-YWNjb3VudDwvY29kZT4KCiMgQ2FyZHMKClR5cGVzOgoKLSA8Y29kZT48YSBo
-cmVmPSIuL3NyYy9yZXNvdXJjZXMvY2FyZHMvY2FyZHMudHMiPkNhcmQ8L2E+
-PC9jb2RlPgotIDxjb2RlPjxhIGhyZWY9Ii4vc3JjL3Jlc291cmNlcy9jYXJk
-cy9jYXJkcy50cyI+RmluYW5jaWFsdHJhbnNhY3Rpb248L2E+PC9jb2RlPgot
-IDxjb2RlPjxhIGhyZWY9Ii4vc3JjL3Jlc291cmNlcy9jYXJkcy9jYXJkcy50
-cyI+Q2FyZFByb3Zpc2lvblJlc3BvbnNlPC9hPjwvY29kZT4KCk1ldGhvZHM6
-CgotIDxjb2RlIHRpdGxlPSJwb3N0IC9jYXJkcyI+Y2xpZW50LmNhcmRzLjxh
-IGhyZWY9Ii4vc3JjL3Jlc291cmNlcy9jYXJkcy9jYXJkcy50cyI+Y3JlYXRl
-PC9hPih7IC4uLnBhcmFtcyB9KSAtPiBDYXJkPC9jb2RlPgotIDxjb2RlIHRp
-dGxlPSJnZXQgL2NhcmRzL3tjYXJkX3Rva2VufSI+Y2xpZW50LmNhcmRzLjxh
-IGhyZWY9Ii4vc3JjL3Jlc291cmNlcy9jYXJkcy9jYXJkcy50cyI+cmV0cmll
-dmU8L2E+KGNhcmRUb2tlbikgLT4gQ2FyZDwvY29kZT4KLSA8Y29kZSB0aXRs
-ZT0icGF0Y2ggL2NhcmRzL3tjYXJkX3Rva2VufSI+Y2xpZW50LmNhcmRzLjxh
-IGhyZWY9Ii4vc3JjL3Jlc291cmNlcy9jYXJkcy9jYXJkcy50cyI+dXBkYXRl
-PC9hPihjYXJkVG9rZW4sIHsgLi4ucGFyYW1zIH0pIC0+IENhcmQ8L2NvZGU+
-Ci0gPGNvZGUgdGl0bGU9InBvc3QgL2NhcmRzL3tjYXJkX3Rva2VufS9wcm92
-aXNpb24iPmNsaWVudC5jYXJkcy48YSBocmVmPSIuL3NyYy9yZXNvdXJjZXMv
-Y2FyZHMvY2FyZHMudHMiPnByb3Zpc2lvbjwvYT4oY2FyZFRva2VuLCB7IC4u
-LnBhcmFtcyB9KSAtPiBDYXJkUHJvdmlzaW9uUmVzcG9uc2U8L2NvZGU+Cgoj
-IyBGaW5hbmNpYWxUcmFuc2FjdGlvbnMKCk1ldGhvZHM6CgotIDxjb2RlIHRp
-dGxlPSJnZXQgL2NhcmRzL3tjYXJkX3Rva2VufS9maW5hbmNpYWxfdHJhbnNh
-Y3Rpb25zL3tmaW5hbmNpYWxfdHJhbnNhY3Rpb25fdG9rZW59Ij5jbGllbnQu
-Y2FyZHMuZmluYW5jaWFsVHJhbnNhY3Rpb25zLjxhIGhyZWY9Ii4vc3JjL3Jl
-c291cmNlcy9jYXJkcy9maW5hbmNpYWwtdHJhbnNhY3Rpb25zLnRzIj5yZXRy
-aWV2ZTwvYT4oY2FyZFRva2VuLCBmaW5hbmNpYWxUcmFuc2FjdGlvblRva2Vu
-KSAtPiBGaW5hbmNpYWx0cmFuc2FjdGlvbjwvY29kZT4KCiMgU3RhdHVzCgpU
-eXBlczoKCi0gPGNvZGU+PGEgaHJlZj0iLi9zcmMvcmVzb3VyY2VzL3N0YXR1
-cy50cyI+U3RhdHVzUmV0cmlldmVSZXNwb25zZTwvYT48L2NvZGU+CgpNZXRo
-b2RzOgoKLSA8Y29kZSB0aXRsZT0iZ2V0IC9zdGF0dXMiPmNsaWVudC5zdGF0
-dXMuPGEgaHJlZj0iLi9zcmMvcmVzb3VyY2VzL3N0YXR1cy50cyI+cmV0cmll
-dmU8L2E+KCkgLT4gU3RhdHVzUmV0cmlldmVSZXNwb25zZTwvY29kZT4K
+# Generate
+
+Types:
+
+```python
+from meorphis_test_11.types import Generation
+```
+
+Methods:
+
+- <code title="post /generate">client.generate.<a href="./src/meorphis_test_11/resources/generate.py">create</a>(\*\*<a href="src/meorphis_test_11/types/generate_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/generation.py">Generation</a></code>
+
+# Embed
+
+Types:
+
+```python
+from meorphis_test_11.types import EmbedCreateResponse
+```
+
+Methods:
+
+- <code title="post /embed">client.embed.<a href="./src/meorphis_test_11/resources/embed.py">create</a>(\*\*<a href="src/meorphis_test_11/types/embed_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/embed_create_response.py">EmbedCreateResponse</a></code>
+
+# Chat
+
+Types:
+
+```python
+from meorphis_test_11.types import (
+    NonStreamedChatResponse,
+    SearchQueriesOnlyResponse,
+    StreamedChatResponse,
+    ChatCreateResponse,
+)
+```
+
+Methods:
+
+- <code title="post /chat">client.chat.<a href="./src/meorphis_test_11/resources/chat.py">create</a>(\*\*<a href="src/meorphis_test_11/types/chat_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/chat_create_response.py">ChatCreateResponse</a></code>
+
+# Classify
+
+Types:
+
+```python
+from meorphis_test_11.types import ClassifyCreateResponse
+```
+
+Methods:
+
+- <code title="post /classify">client.classify.<a href="./src/meorphis_test_11/resources/classify.py">create</a>(\*\*<a href="src/meorphis_test_11/types/classify_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/classify_create_response.py">ClassifyCreateResponse</a></code>
+
+# Tokenize
+
+Types:
+
+```python
+from meorphis_test_11.types import TokenizeCreateResponse
+```
+
+Methods:
+
+- <code title="post /tokenize">client.tokenize.<a href="./src/meorphis_test_11/resources/tokenize.py">create</a>(\*\*<a href="src/meorphis_test_11/types/tokenize_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/tokenize_create_response.py">TokenizeCreateResponse</a></code>
+
+# Detokenize
+
+Types:
+
+```python
+from meorphis_test_11.types import DetokenizeCreateResponse
+```
+
+Methods:
+
+- <code title="post /detokenize">client.detokenize.<a href="./src/meorphis_test_11/resources/detokenize.py">create</a>(\*\*<a href="src/meorphis_test_11/types/detokenize_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/detokenize_create_response.py">DetokenizeCreateResponse</a></code>
+
+# DetectLanguage
+
+Types:
+
+```python
+from meorphis_test_11.types import DetectLanguageCreateResponse
+```
+
+Methods:
+
+- <code title="post /detect-language">client.detect_language.<a href="./src/meorphis_test_11/resources/detect_language.py">create</a>(\*\*<a href="src/meorphis_test_11/types/detect_language_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/detect_language_create_response.py">DetectLanguageCreateResponse</a></code>
+
+# Summarize
+
+Types:
+
+```python
+from meorphis_test_11.types import SummarizeCreateResponse
+```
+
+Methods:
+
+- <code title="post /summarize">client.summarize.<a href="./src/meorphis_test_11/resources/summarize.py">create</a>(\*\*<a href="src/meorphis_test_11/types/summarize_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/summarize_create_response.py">SummarizeCreateResponse</a></code>
+
+# Rerank
+
+Types:
+
+```python
+from meorphis_test_11.types import RerankCreateResponse
+```
+
+Methods:
+
+- <code title="post /rerank">client.rerank.<a href="./src/meorphis_test_11/resources/rerank.py">create</a>(\*\*<a href="src/meorphis_test_11/types/rerank_create_params.py">params</a>) -> <a href="./src/meorphis_test_11/types/rerank_create_response.py">RerankCreateResponse</a></code>
